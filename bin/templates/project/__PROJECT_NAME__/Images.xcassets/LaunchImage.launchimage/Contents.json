@@ -6,6 +6,7 @@
       "extent" : "full-screen",
       "minimum-system-version" : "12.0",
       "subtype" : "2688h",
+      "filename": "Default-2688h.png",
       "scale" : "3x"
     },
     {
@@ -14,6 +15,7 @@
       "extent" : "full-screen",
       "minimum-system-version" : "12.0",
       "subtype" : "2688h",
+      "filename": "Default-Landscape-2688h.png",
       "scale" : "3x"
     },
     {
@@ -22,6 +24,7 @@
       "extent" : "full-screen",
       "minimum-system-version" : "12.0",
       "subtype" : "1792h",
+      "filename": "Default-1792h.png",
       "scale" : "2x"
     },
     {
@@ -30,6 +33,7 @@
       "extent" : "full-screen",
       "minimum-system-version" : "12.0",
       "subtype" : "1792h",
+      "filename": "Default-Landscape-1792h.png",
       "scale" : "2x"
     },
     {
